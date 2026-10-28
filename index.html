@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>POSH Magazine — İş Sağlığı ve Güvenliği Gelişim Dergisi</title>
+  <meta name="description" content="POSH Magazine — Progress in Occupational Safety and Health | İş Sağlığı ve Güvenliği Gelişim Dergisi. İSG alanında en güncel makaleler ve araştırmalar, ücretsiz ve açık erişimli.">
+  <meta name="keywords" content="iş sağlığı, güvenlik, occupational safety, health, dergi, magazine, İSG">
+  <meta name="author" content="POSH Magazine">
+  <meta property="og:title" content="POSH Magazine — Progress in Occupational Safety and Health">
+  <meta property="og:description" content="İSG alanında en güncel makaleler ve araştırmalar. Açık erişimli akademik dergi.">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#ffd60a">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23ffd60a'/%3E%3Ctext x='16' y='24' font-family='Georgia,serif' font-weight='900' font-size='24' text-anchor='middle' fill='%2312110e'%3EP%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT@0,9..144,300..900,0..100;1,9..144,300..900,0..100&family=Hanken+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-page="home">
+  <div id="site-header"></div>
+
+  <main id="main">
+    <!-- Hero -->
+    <section class="hero">
+      <div class="wrap hero-grid">
+        <div>
+          <span class="eyebrow" data-i18n="hero_eyebrow">Açık erişimli akademik dergi</span>
+          <h1 data-i18n="hero_title">İş sağlığı ve güvenliğinde <em>ilerleme.</em></h1>
+          <p class="lead" data-i18n="hero_lead">İSG alanında en güncel araştırmalar, makaleler ve gelişmeler için akademik derginiz. Türkçe ve İngilizce, ücretsiz, herkese açık.</p>
+          <div class="hero-cta">
+            <button type="button" class="btn yellow" id="readLatest"><span data-i18n="read_latest">Son sayıyı oku</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button>
+            <a class="btn ghost" href="issues.html"><span data-i18n="all_issues">Tüm sayılar</span></a>
+          </div>
+        </div>
+        <div class="hero-cover" id="heroCover" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <!-- Latest Issue Table of Contents (Academic TOC) -->
+    <section class="section" style="padding-top: 1rem; padding-bottom: 2.5rem;">
+      <div class="wrap">
+        <div class="toc-section" id="homeTocSection">
+          <div class="toc-header">
+            <h3><span data-i18n="current_issue_articles">Son Sayı Makaleleri &amp; İçindekiler</span> <small id="homeTocBadge">SAYI 14 (2026)</small></h3>
+            <span class="mono" style="color:var(--muted);"><span data-i18n="peer_reviewed_badge">Hakemli Açık Erişim</span> · Q1 Standard</span>
+          </div>
+          <div class="toc-list" id="homeArticleList">
+            <div class="loading">Makaleler yükleniyor...</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="ticker" id="ticker" aria-hidden="true"></div>
+    <div class="wrap stats" id="stats"></div>
+
+    <!-- Latest issues -->
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow" data-i18n="latest_eyebrow">Yeni çıkanlar</span>
+            <h2 data-i18n="latest_title">Son <em>sayılar</em></h2>
+            <p data-i18n="latest_sub">En güncel üç sayı. Tamamı arşivde.</p>
+          </div>
+          <a class="btn ghost" href="issues.html"><span data-i18n="all_issues">Tüm sayılar</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+        </div>
+        <div class="issues-grid three" id="latestIssues"></div>
+      </div>
+    </section>
+
+    <!-- Mission -->
+    <section class="mission">
+      <div class="big-num" aria-hidden="true">&amp;</div>
+      <div class="wrap">
+        <span class="eyebrow" data-i18n="mission_eyebrow">Misyonumuz</span>
+        <blockquote data-i18n="mission_quote">İnsan hayatının <mark>kutsal</mark> olduğuna inanıyoruz.</blockquote>
+        <p data-i18n="mission_body">POSH Magazine, İSG profesyonellerinin ve paydaşlarının ihtiyaç duyduğu bilgi, teori ve uygulamaları Türkçe ve İngilizce içeriklerle erişilebilir kılar. Yayın politikamız ücretsiz ve açık erişimli içerik üretmeyi temel alır.</p>
+        <p style="margin-top:2rem"><a class="btn yellow" href="about.html"><span data-i18n="read_more">Daha fazla bilgi</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></p>
+      </div>
+      <div class="hazard"></div>
+    </section>
+
+    <!-- Interviews -->
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow" data-i18n="interviews_eyebrow">Konuşmalar</span>
+            <h2 data-i18n="interviews_title">Son <em>söyleşiler</em></h2>
+          </div>
+          <a class="btn ghost" href="interviews.html"><span data-i18n="all_interviews">Tüm söyleşiler</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+        </div>
+        <div class="interviews" id="interviewsHome"></div>
+      </div>
+    </section>
+
+    <!-- Explore -->
+    <section class="section alt">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow" data-i18n="explore_eyebrow">Keşfet</span>
+            <h2 data-i18n="explore_title">İSG için <em>kaynaklar</em></h2>
+          </div>
+        </div>
+        <div class="tiles reveal">
+          <a class="tile" href="legislation.html"><span class="num">01</span><span class="arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span><div><h3 data-i18n="tile_leg">Mevzuat</h3><p data-i18n="tile_leg_d">Yasalar, yönetmelikler, tebliğler ve resmî kaynaklara hızlı erişim.</p></div></a>
+          <a class="tile" href="calendar.html"><span class="num">02</span><span class="arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span><div><h3 data-i18n="tile_cal">İSG Takvimi</h3><p data-i18n="tile_cal_d">Önemli tarihler, resmî tatiller ve İSG günleri tek takvimde.</p></div></a>
+          <a class="tile" href="links.html"><span class="num">03</span><span class="arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span><div><h3 data-i18n="tile_links">Faydalı Linkler</h3><p data-i18n="tile_links_d">Dünyadaki resmî ve özel İSG kuruluşları, derlenmiş.</p></div></a>
+          <a class="tile" href="editorial.html"><span class="num">04</span><span class="arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span><div><h3 data-i18n="tile_team">Dergi Yönetimi</h3><p data-i18n="tile_team_d">Editörler, yardımcı editörler ve danışma kurulu.</p></div></a>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="cta-band">
+      <div class="wrap">
+        <div>
+          <h2 data-i18n="cta_title">Dergiye yazı göndermek <em>ister misiniz?</em></h2>
+          <p data-i18n="cta_body">Yazı göndermek, geri bildirim vermek, önerilerinizi ve taleplerinizi iletmek için editör ekibiyle iletişime geçin.</p>
+        </div>
+        <div>
+          <a class="mail-big" href="mailto:editor@poshmagazine.org">editor@poshmagazine.org</a>
+          <a class="btn" href="contact.html"><span data-i18n="write_us">Bize yazın</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer" id="site-footer"></footer>
+  <script src="app.js"></script>
+</body>
+</html>

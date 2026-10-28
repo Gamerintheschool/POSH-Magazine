@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "titleTr": "Dee ARP ile Röportaj",
+    "titleEn": "Interview With Dee ARP",
+    "titleEs": "Entrevista con Dee ARP",
+    "descriptionTr": "Dee ARP ile yaptığımız söyleşimiz sizlerle...",
+    "descriptionEn": "Here is our interview with Dee ARP...",
+    "descriptionEs": "Nuestra conversación y entrevista con Dee ARP...",
+    "date": "2024-01-15",
+    "pdfUrl": "assets/Dee ARP ile Röportaj.pdf"
+  },
+  {
+    "id": 2,
+    "titleTr": "Sophia EDWARDS ile Röportaj",
+    "titleEn": "Interview With Sophia EDWARDS",
+    "titleEs": "Entrevista con Sophia EDWARDS",
+    "descriptionTr": "POSH Magazine Röportaj Konuğu: Sophia EDWARDS",
+    "descriptionEn": "POSH Magazine Interview Questions Sophia EDWARDS",
+    "descriptionEs": "Invitada especial de entrevista en POSH Magazine: Sophia EDWARDS",
+    "date": "2024-03-20",
+    "pdfUrl": "assets/Sophia EDWARDS ile Röportaj.pdf"
+  }
+]

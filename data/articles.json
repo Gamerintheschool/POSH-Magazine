@@ -1,0 +1,233 @@
+[
+  {
+    "id": "posh-2026-14-01",
+    "issueId": 1,
+    "issueNo": 14,
+    "volume": 4,
+    "year": 2026,
+    "pages": "12-25",
+    "doi": "10.58245/posh.2026.14.01",
+    "receivedDate": "2025-11-10",
+    "acceptedDate": "2026-01-05",
+    "publishDate": "2026-01-21",
+    "articleType": "Research Article",
+    "articleTypeTR": "Araştırma Makalesi",
+    "articleTypeES": "Artículo de Investigación",
+    "titleTR": "İç Ortam Havasının (IAQ) İş Sağlığı ve Güvenliği ile Yaşam Kalitesi Açısından Önemi",
+    "titleEN": "Importance of Indoor Air Quality (IAQ) in Terms of Occupational Health & Safety and Quality of Life",
+    "titleES": "Importancia de la Calidad del Aire Interior (CAI) en la Seguridad y Salud Laboral y la Calidad de Vida",
+    "authors": [
+      {
+        "name": "Dr. Joanne Crawford",
+        "role": "Lead Author",
+        "affiliationTR": "İngiltere İş Sağlığı Enstitüsü (IOM)",
+        "affiliationEN": "Institute of Occupational Medicine (IOM), UK",
+        "affiliationES": "Instituto de Medicina Ocupacional (IOM), Reino Unido",
+        "email": "j.crawford@iom-world.org",
+        "orcid": "0000-0002-8491-9214"
+      },
+      {
+        "name": "Dr. Gökçe Sönmez",
+        "role": "Co-Author",
+        "affiliationTR": "Yıldız Teknik Üniversitesi, İktisadi ve İdari Bilimler Fakültesi",
+        "affiliationEN": "Yildiz Technical University, Faculty of Economics and Administrative Sciences",
+        "affiliationES": "Universidad Técnica de Yıldız, Facultad de Ciencias Económicas y Administrativas",
+        "email": "gokce.sonmez@poshmagazine.org",
+        "orcid": "0000-0001-7294-8102"
+      }
+    ],
+    "abstractTR": "Bu çalışma, endüstriyel ve ofis çalışma ortamlarında iç ortam hava kalitesinin (IAQ) çalışan sağlığı, kognitif performans ve iş kazası riskleri üzerindeki doğrudan etkilerini araştırmaktadır. Uçucu organik bileşikler (VOC), partikül madde (PM2.5 ve PM10) ile yüksek karbondioksit (CO2) konsantrasyonlarının mikro iklimsel değişkenlerle etkileşimi uzun dönemli sensör ağlarıyla izlenmiştir. Bulgular, hava kalitesindeki mikro düzeydeki iyileşmelerin dikkat dağınıklığını %32 oranında azalttığını ve ergonomik refahı belirgin şekilde artırdığını göstermektedir.",
+    "abstractEN": "This paper investigates the direct effects of Indoor Air Quality (IAQ) on employee well-being, cognitive performance, and workplace accident probability in modern industrial and office workspaces. The continuous monitoring of Volatile Organic Compounds (VOCs), particulate matter (PM2.5 and PM10), and carbon dioxide (CO2) concentrations was examined alongside microclimatic factors. Empirical findings reveal that optimized ventilation and filtration regimes reduce cognitive fatigue-related incidents by 32% and notably elevate long-term health metrics.",
+    "abstractES": "Este estudio investiga los efectos directos de la calidad del aire interior (CAI) sobre el bienestar de los trabajadores, el rendimiento cognitivo y el riesgo de accidentes laborales en entornos industriales y corporativos modernos. La monitorización continua de compuestos orgánicos volátiles (COV), material particulado (PM2.5 y PM10) y dióxido de carbono (CO2) se examinó junto con factores microclimáticos. Los hallazgos revelan que una ventilación optimizada reduce los incidentes por fatiga cognitiva en un 32% y mejora notablemente los índices de salud a largo plazo.",
+    "keywordsTR": ["İç Ortam Hava Kalitesi", "İSG", "Kognitif Performans", "Partikül Madde", "Havalandırma Standartları"],
+    "keywordsEN": ["Indoor Air Quality", "OSH", "Cognitive Performance", "Particulate Matter", "Ventilation Standards"],
+    "keywordsES": ["Calidad del Aire Interior", "SST", "Rendimiento Cognitivo", "Material Particulado", "Normas de Ventilación"],
+    "views": 1420,
+    "downloads": 485,
+    "sections": [
+      {
+        "headingTR": "1. Giriş ve Kuramsal Çerçeve",
+        "headingEN": "1. Introduction & Theoretical Framework",
+        "contentTR": "<p>Modern iş dünyasında çalışanlar mesailerinin %80'inden fazlasını kapalı alanlarda geçirmektedir. İç ortam havasının biyolojik, kimyasal ve fiziksel parametreleri, yalnızca solunum yolu hastalıklarının değil, aynı zamanda işyerinde yorgunluk, reaksiyon süresinde uzama ve dolaylı olarak tehlikeli davranışların temel tetikleyicisidir.</p><p>Son yıllarda bina otomasyon sistemleri ve enerji verimliliği odaklı yalıtım çalışmaları, iç ortam havasının yenilenme katsayısını sınırlamış; bu durum 'Hasta Bina Sendromu' (Sick Building Syndrome) vakalarında belirgin bir artışa yol açmıştır.</p>",
+        "contentEN": "<p>In modern industrial and corporate settings, workers spend upwards of 80% of their operational hours indoors. The biological, chemical, and physical parameters of indoor air are recognized not solely as respiratory health determinants, but as core precursors to cognitive fatigue, extended reaction times, and workplace mishaps.</p><p>Recent building design shifts toward thermal insulation have inadvertently suppressed fresh air change rates, fostering the proliferation of Sick Building Syndrome across varied enterprise settings.</p>"
+      },
+      {
+        "headingTR": "2. Metodoloji ve Ölçüm Protokolleri",
+        "headingEN": "2. Methodology and Sensing Protocols",
+        "contentTR": "<p>Araştırma, 6 farklı imalat ve lojistik merkezinde 12 aylık periyotta gerçekleştirilmiştir. IoT tabanlı NDIR (Non-Dispersive Infrared) CO2 sensörleri, lazer saçılımlı partikül ölçüm probları ve fotoiyonizasyon VOC analizörleri kullanılmıştır. Veriler ISO 16000 ve EN 13779 standartlarına uygun olarak saatlik ortalamalar bazında normalize edilmiştir.</p>",
+        "contentEN": "<p>The experimental setup was conducted across 6 distinct manufacturing and logistic complexes spanning a 12-month duration. Real-time IoT arrays employing NDIR CO2 sensors, laser-scattering particle probes, and photoionization VOC analyzers were deployed. Data collection followed ISO 16000 and EN 13779 analytical directives.</p>"
+      },
+      {
+        "headingTR": "3. Bulgular ve Tartışma",
+        "headingEN": "3. Findings and Discussion",
+        "contentTR": "<p>CO2 seviyelerinin 1000 ppm eşiğini aştığı çalışma ortamlarında, kaza riski göstergelerinde %28'lik artış saptanmıştır. Özellikle yüksek hassasiyet gerektiren operatör pozisyonlarında, PM2.5 konsantrasyonu 25 µg/m³ altına çekildiğinde konsantrasyon hatalarında belirgin gerileme gözlemlenmiştir.</p>",
+        "contentEN": "<p>Environments where indoor CO2 concentrations consistently exceeded 1,000 ppm demonstrated a 28% elevation in near-miss incidents. For precision equipment operators, bringing PM2.5 levels below 25 µg/m³ produced a direct decline in attentional lapses.</p>"
+      },
+      {
+        "headingTR": "4. Sonuç ve Öneriler",
+        "headingEN": "4. Conclusion and Practical Recommendations",
+        "contentTR": "<p>İSG uzmanlarının risk değerlendirmelerinde iç ortam hava kalitesini ikincil bir unsur olarak değil, birincil kaza önleme metriği olarak kabul etmesi gerekmektedir. Akıllı HVAC filtreleme stratejileri, dinamik debi yönetimi ve düzenli VOC taraması tavsiye edilmektedir.</p>",
+        "contentEN": "<p>OSH professionals must integrate indoor air metrics as front-line accident prevention indicators rather than secondary environmental factors. Dynamic HVAC adaptation, HEPA-grade localized filtration, and regular VOC audits are essential best practices.</p>"
+      }
+    ],
+    "references": [
+      "Allen, J. G., et al. (2016). Associations of Cognitive Function Scores with Carbon Dioxide, Ventilation, and Volatile Organic Compound Exposures in Office Workers. Environmental Health Perspectives, 124(6), 805-812.",
+      "Wargocki, P., et al. (2020). The effects of indoor air quality on performance of school tasks. Indoor Air, 30(3), 540-553.",
+      "EU-OSHA (2023). Healthy Workplaces in the Digital and Post-Pandemic Era: Indoor Climate and Air Quality Directives. Luxembourg: Publications Office of the European Union.",
+      "World Health Organization (2021). WHO global air quality guidelines: particulate matter, ozone, nitrogen dioxide, sulfur dioxide and carbon monoxide."
+    ]
+  },
+  {
+    "id": "posh-2026-14-02",
+    "issueId": 1,
+    "issueNo": 14,
+    "volume": 4,
+    "year": 2026,
+    "pages": "26-38",
+    "doi": "10.58245/posh.2026.14.02",
+    "receivedDate": "2025-11-28",
+    "acceptedDate": "2026-01-12",
+    "publishDate": "2026-01-21",
+    "articleType": "Technical Review",
+    "articleTypeTR": "Teknik İnceleme",
+    "articleTypeES": "Revisión Técnica",
+    "titleTR": "Vinç Sepetlerinin Güvenli Kullanımı ve Yüksekte Çalışma Standartları",
+    "titleEN": "Safe Use of Crane Baskets and Contemporary Working-at-Height Norms",
+    "titleES": "Uso Seguro de Cestas de Grúa y Normas Actuales de Trabajo en Altura",
+    "authors": [
+      {
+        "name": "Hakan Erdoğan",
+        "role": "Principal Author",
+        "affiliationTR": "POSH Magazine Baş Editörü, İSG Kıdemli Danışmanı",
+        "affiliationEN": "Editor-in-Chief POSH Magazine, Senior OSH Consultant",
+        "affiliationES": "Editor en Jefe POSH Magazine, Consultor Senior en SST",
+        "email": "editor@poshmagazine.org",
+        "orcid": "0000-0003-4120-1928"
+      },
+      {
+        "name": "Mehmet Aksan",
+        "role": "Contributing Author",
+        "affiliationTR": "Danışma Kurulu Üyesi, Makine Emniyet Uzmanı",
+        "affiliationEN": "Advisory Board Member, Machinery Safety Specialist",
+        "affiliationES": "Miembro del Consejo Asesor, Especialista en Seguridad de Maquinaria",
+        "email": "mehmet.aksan@poshmagazine.org",
+        "orcid": "0000-0002-1983-0045"
+      }
+    ],
+    "abstractTR": "Geçici ve acil durumlarda vinçlerle personel kaldırılması, şantiyeler ve tersaneler başta olmak üzere yüksek riskli operasyonlardandır. Bu teknik makale, vinç sepetlerinin tasarım kriterlerini, EN 14502-1 standardı gerekliliklerini, aşırı yük ve rüzgar kısıtlamalarını ve çift emniyetli halat askı mekanizmalarını incelemektedir.",
+    "abstractEN": "The non-routine lifting of personnel using crane-suspended man baskets remains a critical risk in construction, heavy maintenance, and maritime operations. This technical review assesses structural safety criteria under EN 14502-1, secondary tether systems, wind-load cut-offs, and critical pre-lift checklist verification.",
+    "abstractES": "La elevación no rutinaria de personas mediante cestas suspendidas en grúas sigue constituyendo una operación de alto riesgo en la construcción, el mantenimiento pesado y el sector marítimo. Esta revisión técnica evalúa los criterios de diseño estructural bajo la norma EN 14502-1, sistemas de cable secundario de seguridad, límites de viento y listas de verificación previas.",
+    "keywordsTR": ["Vinç Sepetleri", "Yüksekte Çalışma", "EN 14502-1", "Kaldırma Ekipmanları", "İş Güvenliği"],
+    "keywordsEN": ["Crane Baskets", "Work at Height", "EN 14502-1", "Lifting Operations", "Occupational Safety"],
+    "keywordsES": ["Cestas de Grúa", "Trabajo en Altura", "EN 14502-1", "Operaciones de Elevación", "Seguridad Laboral"],
+    "views": 980,
+    "downloads": 312,
+    "sections": [
+      {
+        "headingTR": "1. Mevzuat ve Kapsam",
+        "headingEN": "1. Regulatory Framework & Scope",
+        "contentTR": "<p>Personel kaldırma amacıyla tasarlanmamış kaldırma ekipmanlarının yalnızca istisnai durumlarda ve özel güvenlik önlemleri alınarak kullanılmasına izin verilir. Bu makale, vinçle personel taşıma sepetlerinin zorunlu teknik emniyet donanımlarını ele almaktadır.</p>",
+        "contentEN": "<p>Equipment not primarily manufactured for personnel lifting must only be engaged during exceptional scenarios under stringent safety protocols. This review defines obligatory engineering controls for man-basket crane deployment.</p>"
+      },
+      {
+        "headingTR": "2. Yapısal Emniyet Faktörleri ve Testler",
+        "headingEN": "2. Structural Safety Factors & Load Proofing",
+        "contentTR": "<p>Sepetin taban mukavemeti, korkuluk yüksekliği (en az 110 cm), eteklik sacı ve paraşüt tipi emniyet kemeri bağlantı ankraj noktalarının minimum 22 kN çekme dayanımına sahip olması zorunludur.</p>",
+        "contentEN": "<p>Floor structural integrity, toe-board dimensions, handrail heights (min 1100 mm), and fall-arrest anchor points rated for at least 22 kN are indispensable prerequisites under current European and international norms.</p>"
+      }
+    ],
+    "references": [
+      "EN 14502-1:2010 - Cranes - Equipment for the lifting of persons - Part 1: Suspended baskets.",
+      "OSHA 1926.1431 - Cranes and Derricks in Construction: Hoisting Personnel.",
+      "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (2013)."
+    ]
+  },
+  {
+    "id": "posh-2026-14-03",
+    "issueId": 1,
+    "issueNo": 14,
+    "volume": 4,
+    "year": 2026,
+    "pages": "39-52",
+    "doi": "10.58245/posh.2026.14.03",
+    "receivedDate": "2025-12-05",
+    "acceptedDate": "2026-01-15",
+    "publishDate": "2026-01-21",
+    "articleType": "Applied Case Study",
+    "articleTypeTR": "Uygulamalı Vaka Analizi",
+    "titleTR": "WBGT İndeksi ve Termal Konfor Ölçüm Parametrelerinin Ağır Sanayideki Rolü",
+    "titleEN": "The Role of WBGT Index and Thermal Comfort Parameters in Heavy Industries",
+    "authors": [
+      {
+        "name": "Gökhan Timur",
+        "role": "Lead Author",
+        "affiliationTR": "Danışma Kurulu Üyesi, Endüstriyel Hijyenist",
+        "affiliationEN": "Advisory Board Member, Certified Industrial Hygienist",
+        "email": "gokhantimurisg@gmail.com",
+        "orcid": "0000-0001-9014-4512"
+      }
+    ],
+    "abstractTR": "Dökümhaneler, cam üretimi ve sıcak dövme tesislerinde termal stres, çalışanların fizyolojik sınırlarını aşabilmektedir. Islak Hazneli Küre Sıcaklığı (WBGT) indeksinin çalışma-dinlenme rejimleriyle entegrasyonu ve su-tuz dengesi protokollerinin uygulanması analiz edilmiştir.",
+    "abstractEN": "In smelting, glass fabrication, and hot-forging enterprises, thermal stress frequently challenges human physiological boundaries. This case study details the continuous integration of the Wet Bulb Globe Temperature (WBGT) index with adaptive work-rest cycles.",
+    "keywordsTR": ["WBGT İndeksi", "Termal Konfor", "Isı Stresi", "Ağır Sanayi", "Endüstriyel Hijyen"],
+    "keywordsEN": ["WBGT Index", "Thermal Comfort", "Heat Stress", "Heavy Industry", "Industrial Hygiene"],
+    "views": 845,
+    "downloads": 240,
+    "sections": [
+      {
+        "headingTR": "1. Isı Stresinin Fizyolojik Mekanizması",
+        "headingEN": "1. Physiological Mechanisms of Heat Strain",
+        "contentTR": "<p>Aşırı sıcak ortamda vücut sıcaklığının 38°C üzerine çıkması sıcak çarpması, kramp ve bayılma riskini katlamaktadır. Erken uyarı sistemleri ve WBGT ölçümleri bu zinciri kırmanın anahtarıdır.</p>",
+        "contentEN": "<p>Core body temperature exceeding 38°C significantly amplifies syncope, rhabdomyolysis, and fatal heat stroke events. Early biometric monitoring paired with WBGT gauges mitigates catastrophic outcomes.</p>"
+      }
+    ],
+    "references": [
+      "ISO 7243:2017 - Ergonomics of the thermal environment - Assessment of heat stress using the WBGT index.",
+      "ACGIH Threshold Limit Values (TLVs) for Heat Stress and Strain (2024)."
+    ]
+  },
+  {
+    "id": "posh-2025-13-01",
+    "issueId": 2,
+    "issueNo": 13,
+    "volume": 3,
+    "year": 2025,
+    "pages": "10-24",
+    "doi": "10.58245/posh.2025.13.01",
+    "receivedDate": "2025-09-18",
+    "acceptedDate": "2025-11-15",
+    "publishDate": "2025-12-01",
+    "articleType": "Research Article",
+    "articleTypeTR": "Araştırma Makalesi",
+    "titleTR": "Orman Yangınlarıyla Mücadelede Uçakların Rolü ve Pilotların İSG Riskleri",
+    "titleEN": "The Operational Role of Aircraft in Wildfire Suppression and Pilot OSH Risks",
+    "authors": [
+      {
+        "name": "Selcen Kanalıcı Porter",
+        "role": "Lead Author",
+        "affiliationTR": "Danışma Kurulu Üyesi, Havacılık ve Çevre Emniyet Uzmanı",
+        "affiliationEN": "Advisory Board Member, Aviation & Environmental Safety Specialist",
+        "email": "selcenkanalici@gmail.com",
+        "orcid": "0000-0003-1284-5519"
+      }
+    ],
+    "abstractTR": "Orman yangınlarında amfibik uçaklar ve helikopterlerle yapılan su atma sortileri, aşırı türbülans, yoğun duman, düşük görüş ve termal yük altında icra edilir. Bu çalışma, hava ekiplerinin maruz kaldığı fiziksel ve mental stres faktörlerini ortaya koymaktadır.",
+    "abstractEN": "Aerial firefighting utilizing scooper aircraft and heavy helicopters involves missions executed under extreme thermal gradients, micro-turbulence, and heavy particulate smoke. This paper profiles the physiological and situational hazards confronting flight crews.",
+    "keywordsTR": ["Havacılık İSG", "Orman Yangınları", "Pilot Güvenliği", "Termal Türbülans"],
+    "keywordsEN": ["Aviation Safety", "Wildfire Suppression", "Pilot Occupational Health", "Extreme Environments"],
+    "views": 1120,
+    "downloads": 395,
+    "sections": [
+      {
+        "headingTR": "1. Giriş",
+        "headingEN": "1. Introduction",
+        "contentTR": "<p>Yangın söndürme sortileri, sivil havacılıktaki en tehlikeli operasyonlar arasında yer almaktadır. Pilotların kabin içi CO maruziyeti ve aşırı g kuvvetleri analizi sunulmuştur.</p>",
+        "contentEN": "<p>Wildfire water-bombing sorties rank among the most hazardous civil flight operations worldwide. In-cockpit CO exposure and turbulent aerodynamic loads are analyzed.</p>"
+      }
+    ],
+    "references": [
+      "FAA Safety Team (FAASTeam) Aerial Firefighting Risk Assessments.",
+      "National Interagency Fire Center (NIFC) Incident Safety Summaries (2024)."
+    ]
+  }
+]

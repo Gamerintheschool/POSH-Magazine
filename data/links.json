@@ -1,0 +1,383 @@
+[
+  {
+    "en": "International Organizations",
+    "tr": "Uluslararası Kuruluşlar",
+    "items": [
+      {
+        "url": "https://osha.europa.eu/",
+        "nameEn": "EU-OSHA – European Agency for Safety and Health at Work",
+        "nameTr": "EU-OSHA – Avrupa İş Sağlığı ve Güvenliği Ajansı",
+        "descEn": "EU-level research, campaigns and resources",
+        "descTr": "AB düzeyinde araştırmalar, kampanyalar ve kaynaklar"
+      },
+      {
+        "url": "https://www.ilo.org/",
+        "nameEn": "ILO – International Labour Organization",
+        "nameTr": "ILO – Uluslararası Çalışma Örgütü",
+        "descEn": "International labour standards, OSH conventions and programs",
+        "descTr": "Uluslararası çalışma standartları, İSG sözleşmeleri ve programlar"
+      },
+      {
+        "url": "https://www.cdc.gov/niosh/",
+        "nameEn": "NIOSH – National Institute for Occupational Safety and Health",
+        "nameTr": "NIOSH – İş Sağlığı ve Güvenliği Ulusal Enstitüsü",
+        "descEn": "Scientific research and recommendations on OSH",
+        "descTr": "İSG alanında bilimsel araştırmalar ve öneriler"
+      },
+      {
+        "url": "https://www.osha.gov/",
+        "nameEn": "OSHA – Occupational Safety and Health Administration (US)",
+        "nameTr": "OSHA – İş Sağlığı ve Güvenliği İdaresi (ABD)",
+        "descEn": "Regulations, standards and guidance for workplaces",
+        "descTr": "İşyeri mevzuatı, standartlar ve rehberlik"
+      },
+      {
+        "url": "https://www.hse.gov.uk/",
+        "nameEn": "HSE – Health and Safety Executive (UK)",
+        "nameTr": "HSE – Sağlık ve Güvenlik Kurumu (Birleşik Krallık)",
+        "descEn": "Guidance, enforcement and statistics in the UK",
+        "descTr": "Birleşik Krallık’ta rehberlik, denetim ve istatistikler"
+      },
+      {
+        "url": "https://iosh.com/",
+        "nameEn": "IOSH – Institution of Occupational Safety and Health",
+        "nameTr": "IOSH – İş Sağlığı ve Güvenliği Enstitüsü",
+        "descEn": "Professional development and OSH membership body",
+        "descTr": "Mesleki gelişim ve İSG profesyonel örgütü"
+      }
+    ]
+  },
+  {
+    "en": "Turkey (Official Portals)",
+    "tr": "Türkiye (Resmî Portallar)",
+    "items": [
+      {
+        "url": "https://www.csgb.gov.tr/isggm/",
+        "nameEn": "General Directorate of Occupational Health and Safety (İSGGM)",
+        "nameTr": "İş Sağlığı ve Güvenliği Genel Müdürlüğü (İSGGM)",
+        "descEn": "Official OSH policies, announcements and resources",
+        "descTr": "Resmî İSG politika, duyuru ve kaynaklar"
+      },
+      {
+        "url": "https://www.mevzuat.gov.tr/",
+        "nameEn": "Legislation Information System (MBS)",
+        "nameTr": "Mevzuat Bilgi Sistemi (MBS)",
+        "descEn": "Access to Turkish laws, regulations and communiqués",
+        "descTr": "Türkiye'de kanun, yönetmelik ve tebliğlere erişim"
+      },
+      {
+        "url": "https://kms.kaysis.gov.tr/Home/Kurum/24304011",
+        "nameEn": "KAYSİS – Public Management System (OSH pages)",
+        "nameTr": "KAYSİS – Kamu Yönetim Sistemi (İSG sayfaları)",
+        "descEn": "Institutional records and OSH-related documents",
+        "descTr": "Kurumsal kayıtlar ve İSG ile ilgili dokümanlar"
+      }
+    ]
+  },
+  {
+    "en": "European Organizations",
+    "tr": "Avrupa Kuruluşları",
+    "items": [
+      {
+        "url": "http://www.hvbg.de/d/bia/index.html",
+        "nameEn": "BIA – BG-Institute for Occupational Safety and Health (Germany)",
+        "nameTr": "BIA – İş Sağlığı ve Güvenliği Enstitüsü (Almanya)",
+        "descEn": "Berufsgenossenschaftliches Institut für Arbeitsschutz",
+        "descTr": "Berufsgenossenschaftliches Institut für Arbeitsschutz"
+      },
+      {
+        "url": "http://www.bg-praevention.de/cgi-bin/praevention",
+        "nameEn": "BG-Netzwerk Prävention (Germany)",
+        "nameTr": "BG-Netzwerk Prävention (Almanya)",
+        "descEn": "Prevention network for occupational safety",
+        "descTr": "İş güvenliği önleme ağı"
+      },
+      {
+        "url": "http://www.baua.de/english/fors/index.htm",
+        "nameEn": "BAuA – Federal Institute for Occupational Safety and Health (Germany)",
+        "nameTr": "BAuA – Federal İş Sağlığı ve Güvenliği Enstitüsü (Almanya)",
+        "descEn": "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin",
+        "descTr": "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin"
+      },
+      {
+        "url": "http://www.hvbg.de/",
+        "nameEn": "HVBG – Federation of Institutions for Statutory Accident Insurance and Prevention (Germany)",
+        "nameTr": "HVBG – Yasal Kaza Sigortası ve Önleme Kurumları Federasyonu (Almanya)",
+        "descEn": "Hauptverband der gewerblichen Berufsgenossenschaften",
+        "descTr": "Hauptverband der gewerblichen Berufsgenossenschaften"
+      },
+      {
+        "url": "http://www.kan.de/",
+        "nameEn": "KAN – Commission for Occupational Health and Safety and Standardization (Germany)",
+        "nameTr": "KAN – İş Sağlığı ve Güvenliği ve Standardizasyon Komisyonu (Almanya)",
+        "descEn": "Kommission Arbeitsschutz und Normung",
+        "descTr": "Kommission Arbeitsschutz und Normung"
+      },
+      {
+        "url": "http://home.t-online.de/home/ZS-Erkrath/",
+        "nameEn": "ZS – Zentrum für Sicherheitstechnik (Germany)",
+        "nameTr": "ZS – Güvenlik Teknolojisi Merkezi (Almanya)",
+        "descEn": "Center for Safety Technology",
+        "descTr": "Güvenlik Teknolojisi Merkezi"
+      },
+      {
+        "url": "http://www.auva.or.at/",
+        "nameEn": "AUVA – Social Insurance for Occupational Risks (Austria)",
+        "nameTr": "AUVA – Mesleki Riskler için Sosyal Sigorta (Avusturya)",
+        "descEn": "Allgemeine Unfallversicherungsanstalt",
+        "descTr": "Allgemeine Unfallversicherungsanstalt"
+      },
+      {
+        "url": "http://www.prevent.be/",
+        "nameEn": "PREVENT – Institute for Prevention, Protection and Welfare at Work (Belgium)",
+        "nameTr": "PREVENT – İşte Önleme, Koruma ve Refah Enstitüsü (Belçika)",
+        "descEn": "Institut pour la prévention, la protection et le bien-être au travail",
+        "descTr": "Institut pour la prévention, la protection et le bien-être au travail"
+      },
+      {
+        "url": "http://www.ami.dk/english/nyheder/",
+        "nameEn": "AMI – National Institute of Occupational Health (Denmark)",
+        "nameTr": "AMI – Ulusal İş Sağlığı Enstitüsü (Danimarka)",
+        "descEn": "Arbejdsmiljoinstituttet",
+        "descTr": "Arbejdsmiljoinstituttet"
+      },
+      {
+        "url": "http://www.mtas.es/insht/en/index_en.htm",
+        "nameEn": "INSHT – National Institute of Safety and Hygiene at Work (Spain)",
+        "nameTr": "INSHT – Ulusal İş Güvenliği ve Hijyen Enstitüsü (İspanya)",
+        "descEn": "Instituto Nacional de Seguridad e Higiene en el Trabajo",
+        "descTr": "Instituto Nacional de Seguridad e Higiene en el Trabajo"
+      },
+      {
+        "url": "http://www.occuphealth.fi/e/",
+        "nameEn": "FIOH – Finnish Institute of Occupational Health (Finland)",
+        "nameTr": "FIOH – Finlandiya İş Sağlığı Enstitüsü (Finlandiya)",
+        "descEn": "Research and development in occupational health",
+        "descTr": "İş sağlığında araştırma ve geliştirme"
+      },
+      {
+        "url": "http://www.niva.org",
+        "nameEn": "NIVA – Nordic Institute for Advanced Training in Occupational Health (Finland)",
+        "nameTr": "NIVA – İş Sağlığında İleri Eğitim için Nordik Enstitüsü (Finlandiya)",
+        "descEn": "Advanced training programs in occupational health",
+        "descTr": "İş sağlığında ileri eğitim programları"
+      },
+      {
+        "url": "http://www.elinyae.gr/english/elinyae.htm",
+        "nameEn": "ELINYAE – Hellenic Institute for Occupational Health and Safety (Greece)",
+        "nameTr": "ELINYAE – Helen İş Sağlığı ve Güvenliği Enstitüsü (Yunanistan)",
+        "descEn": "Greek national institute for OSH",
+        "descTr": "Yunanistan ulusal İSG enstitüsü"
+      },
+      {
+        "url": "http://www.hsa.ie/",
+        "nameEn": "HAS – Health and Safety Authority (Ireland)",
+        "nameTr": "HAS – Sağlık ve Güvenlik Otoritesi (İrlanda)",
+        "descEn": "Irish national authority for occupational safety and health",
+        "descTr": "İrlanda ulusal iş güvenliği ve sağlığı otoritesi"
+      },
+      {
+        "url": "http://www.inail.it",
+        "nameEn": "INAIL – National Insurance Institute against Occupational Accidents (Italy)",
+        "nameTr": "INAIL – İş Kazalarına Karşı Ulusal Sigorta Enstitüsü (İtalya)",
+        "descEn": "Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro",
+        "descTr": "Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro"
+      },
+      {
+        "url": "http://www.ispesl.it/",
+        "nameEn": "ISPESL – National Institute of Occupational Safety and Prevention (Italy)",
+        "nameTr": "ISPESL – Ulusal İş Güvenliği ve Önleme Enstitüsü (İtalya)",
+        "descEn": "Istituto superiore per la prevenzione e la sicurezza del lavoro",
+        "descTr": "Istituto superiore per la prevenzione e la sicurezza del lavoro"
+      },
+      {
+        "url": "http://www.stami.no/",
+        "nameEn": "NIOH – National Institute of Occupational Health (Norway)",
+        "nameTr": "NIOH – Ulusal İş Sağlığı Enstitüsü (Norveç)",
+        "descEn": "Research and advisory services in occupational health",
+        "descTr": "İş sağlığında araştırma ve danışmanlık hizmetleri"
+      },
+      {
+        "url": "http://www.tno.nl/homepage.html",
+        "nameEn": "TNO – Netherlands Organisation for Applied Scientific Research (Netherlands)",
+        "nameTr": "TNO – Hollanda Uygulamalı Bilimsel Araştırma Organizasyonu (Hollanda)",
+        "descEn": "Applied research in occupational health and safety",
+        "descTr": "İş sağlığı ve güvenliğinde uygulamalı araştırma"
+      },
+      {
+        "url": "http://www.balticseaosh.net/index.shtml",
+        "nameEn": "Netherlands Baltic Sea Network on Occupational Health and Safety",
+        "nameTr": "Hollanda Baltık Denizi İş Sağlığı ve Güvenliği Ağı",
+        "descEn": "Regional cooperation network for OSH",
+        "descTr": "İSG için bölgesel işbirliği ağı"
+      },
+      {
+        "url": "http://www.ciop.waw.pl/778.html",
+        "nameEn": "CIOP – Central Institute for Labour Protection (Poland)",
+        "nameTr": "CIOP – Merkezi İşçi Koruma Enstitüsü (Polonya)",
+        "descEn": "Centralny Instytut Ochrony Pracy",
+        "descTr": "Centralny Instytut Ochrony Pracy"
+      },
+      {
+        "url": "http://www.idict.gov.pt/",
+        "nameEn": "IDICT – Instituto de desenvolvimento e Inspecção das Condições de Trabalho (Portugal)",
+        "nameTr": "IDICT – Çalışma Koşulları Geliştirme ve Denetleme Enstitüsü (Portekiz)",
+        "descEn": "Development and inspection of working conditions",
+        "descTr": "Çalışma koşullarının geliştirilmesi ve denetimi"
+      },
+      {
+        "url": "http://www.vubp.cz/",
+        "nameEn": "VUBP – Occupational Safety Research Institute (Czech Republic)",
+        "nameTr": "VUBP – İş Güvenliği Araştırma Enstitüsü (Çek Cumhuriyeti)",
+        "descEn": "Výzkumný ústav bezpečnosti práce",
+        "descTr": "Výzkumný ústav bezpečnosti práce"
+      },
+      {
+        "url": "http://www.hse.gov.uk/hsehome.htm",
+        "nameEn": "HSE – Health and Safety Executive (United Kingdom)",
+        "nameTr": "HSE – Sağlık ve Güvenlik Kurumu (Birleşik Krallık)",
+        "descEn": "UK's national regulator for workplace health and safety",
+        "descTr": "Birleşik Krallık'ın ulusal işyeri sağlık ve güvenlik düzenleyicisi"
+      },
+      {
+        "url": "http://www.hsl.gov.uk/",
+        "nameEn": "HSL – Health and Safety Laboratory (United Kingdom)",
+        "nameTr": "HSL – Sağlık ve Güvenlik Laboratuvarı (Birleşik Krallık)",
+        "descEn": "Scientific research and testing for workplace safety",
+        "descTr": "İşyeri güvenliği için bilimsel araştırma ve test"
+      },
+      {
+        "url": "http://www.arbetslivsinstitutet.se/en/",
+        "nameEn": "NIWL – National Institute for Working Life (Sweden)",
+        "nameTr": "NIWL – Ulusal Çalışma Yaşamı Enstitüsü (İsveç)",
+        "descEn": "Arbetslivsinstitutet",
+        "descTr": "Arbetslivsinstitutet"
+      },
+      {
+        "url": "http://www.suva.ch/scripts/suva/index_f.asp",
+        "nameEn": "CNA-suva – National Accident Insurance Fund (Switzerland)",
+        "nameTr": "CNA-suva – Ulusal Kaza Sigorta Fonu (İsviçre)",
+        "descEn": "Swiss accident insurance and prevention",
+        "descTr": "İsviçre kaza sigortası ve önleme"
+      }
+    ]
+  },
+  {
+    "en": "Other Countries",
+    "tr": "Diğer Ülkeler",
+    "items": [
+      {
+        "url": "http://www.nosa.co.za/",
+        "nameEn": "NOSA – National Occupational Safety Association (South Africa)",
+        "nameTr": "NOSA – Ulusal İş Güvenliği Derneği (Güney Afrika)",
+        "descEn": "Leading OSH training and certification body",
+        "descTr": "Önde gelen İSG eğitim ve sertifikasyon kuruluşu"
+      },
+      {
+        "url": "http://www.nohsc.gov.au/",
+        "nameEn": "NOHSC – National Occupational Health and Safety Commission (Australia)",
+        "nameTr": "NOHSC – Ulusal İş Sağlığı ve Güvenliği Komisyonu (Avustralya)",
+        "descEn": "Australian national standards and policies",
+        "descTr": "Avustralya ulusal standartlar ve politikalar"
+      },
+      {
+        "url": "http://www.apsam.com/",
+        "nameEn": "APSAM – Occupational Health and Safety Association for Municipal Affairs (Canada)",
+        "nameTr": "APSAM – Belediye İşleri İş Sağlığı ve Güvenliği Derneği (Kanada)",
+        "descEn": "Municipal sector OSH resources",
+        "descTr": "Belediye sektörü İSG kaynakları"
+      },
+      {
+        "url": "http://www.cchst.ca/",
+        "nameEn": "CCOHS – Canadian Centre for Occupational Health and Safety (Canada)",
+        "nameTr": "CCOHS – Kanada İş Sağlığı ve Güvenliği Merkezi (Kanada)",
+        "descEn": "National resource for workplace health and safety information",
+        "descTr": "İşyeri sağlık ve güvenlik bilgisi için ulusal kaynak"
+      },
+      {
+        "url": "http://www.csst.qc.ca/",
+        "nameEn": "CSST – Quebec's Occupational Health and Safety Commission (Canada)",
+        "nameTr": "CSST – Quebec İş Sağlığı ve Güvenliği Komisyonu (Kanada)",
+        "descEn": "Quebec provincial OSH authority",
+        "descTr": "Quebec eyalet İSG otoritesi"
+      },
+      {
+        "url": "http://www.ctq.qc.ca/",
+        "nameEn": "CTQ – Quebec's Toxicology Centre (Canada)",
+        "nameTr": "CTQ – Quebec Toksikoloji Merkezi (Kanada)",
+        "descEn": "Toxicology research and information",
+        "descTr": "Toksikoloji araştırma ve bilgi"
+      },
+      {
+        "url": "http://www.irsst.qc.ca/",
+        "nameEn": "IRSST – Robert Sauvé Occupational Health and Safety Research Institute (Canada)",
+        "nameTr": "IRSST – Robert Sauvé İş Sağlığı ve Güvenliği Araştırma Enstitüsü (Kanada)",
+        "descEn": "Research and prevention in occupational health",
+        "descTr": "İş sağlığında araştırma ve önleme"
+      },
+      {
+        "url": "http://www.kosha.or.kr/english/english.htm",
+        "nameEn": "KOSHA – Occupational Safety and Health Agency (Korea)",
+        "nameTr": "KOSHA – İş Güvenliği ve Sağlığı Ajansı (Kore)",
+        "descEn": "Korean national OSH agency",
+        "descTr": "Kore ulusal İSG ajansı"
+      },
+      {
+        "url": "http://www.acgih.org/",
+        "nameEn": "ACGIH – American Conference of Governmental Industrial Hygienists (United States)",
+        "nameTr": "ACGIH – Amerikan Hükümet Endüstriyel Hijyenistler Konferansı (ABD)",
+        "descEn": "Threshold limit values and exposure guidelines",
+        "descTr": "Eşik limit değerleri ve maruziyet kılavuzları"
+      },
+      {
+        "url": "http://www.aiha.org/",
+        "nameEn": "AIHA – American Industrial Hygiene Association (United States)",
+        "nameTr": "AIHA – Amerikan Endüstriyel Hijyen Derneği (ABD)",
+        "descEn": "Professional association for industrial hygienists",
+        "descTr": "Endüstriyel hijyenistler için profesyonel dernek"
+      },
+      {
+        "url": "http://www.cdc.gov/niosh/homepage.html",
+        "nameEn": "NIOSH – National Institute for Occupational Safety and Health (United States)",
+        "nameTr": "NIOSH – İş Sağlığı ve Güvenliği Ulusal Enstitüsü (ABD)",
+        "descEn": "Research and recommendations for workplace safety",
+        "descTr": "İşyeri güvenliği için araştırma ve öneriler"
+      },
+      {
+        "url": "http://www.nsc.org/",
+        "nameEn": "NSC – Ulusal Güvenlik Konseyi (ABD)",
+        "nameTr": "NSC – Ulusal Güvenlik Konseyi (ABD)",
+        "descEn": "Safety training and advocacy organization",
+        "descTr": "Güvenlik eğitimi ve savunuculuk organizasyonu"
+      },
+      {
+        "url": "http://www.osha.gov/",
+        "nameEn": "OSHA – Occupational Safety and Health Administration (United States)",
+        "nameTr": "OSHA – İş Sağlığı ve Güvenliği İdaresi (ABD)",
+        "descEn": "Federal workplace safety regulations and enforcement",
+        "descTr": "Federal işyeri güvenlik düzenlemeleri ve uygulama"
+      },
+      {
+        "url": "http://www.jisha.or.jp/english/index.html",
+        "nameEn": "JISHA – Industrial Safety and Health Association (Japan)",
+        "nameTr": "JISHA – Endüstriyel Güvenlik ve Sağlık Derneği (Japonya)",
+        "descEn": "Japanese industrial safety promotion",
+        "descTr": "Japon endüstriyel güvenlik teşviki"
+      },
+      {
+        "url": "http://www.anken.go.jp/english/top.html",
+        "nameEn": "NIIS – National Institute of Industrial Safety (Japan)",
+        "nameTr": "NIIS – Ulusal Endüstriyel Güvenlik Enstitüsü (Japonya)",
+        "descEn": "Research and standards for industrial safety",
+        "descTr": "Endüstriyel güvenlik için araştırma ve standartlar"
+      },
+      {
+        "url": "http://www.isst.nat.tn",
+        "nameEn": "ISST – Occupational Health and Safety Institute (Tunisia)",
+        "nameTr": "ISST – İş Sağlığı ve Güvenliği Enstitüsü (Tunus)",
+        "descEn": "Tunisian national OSH institute",
+        "descTr": "Tunus ulusal İSG enstitüsü"
+      }
+    ]
+  }
+]

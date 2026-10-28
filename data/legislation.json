@@ -1,0 +1,181 @@
+{
+  "contracts": [
+    {
+      "title": "Uluslararası ve Ulusal Sözleşmeler (Dış Kaynak)",
+      "titleEn": "International and National Agreements (External Source)"
+    }
+  ],
+  "laws": [
+    {
+      "title": "Avrupa İnsan Hakları Sözleşmesi (İnsan Haklarını ve Ana Hürriyetlerini Koruma Sözleşmesi)",
+      "titleEn": "European Convention on Human Rights (Convention for the Protection of Human Rights and Fundamental Freedoms)",
+      "rgText": "19.03.1954/8662"
+    },
+    {
+      "title": "Basın Mesleğinde Çalışanlarla Çalıştıranlar Arasındaki Münasebetlerin Tanzimi Hakkında Kanun",
+      "titleEn": "Law on Regulating Relations Between Press Employees and Employers",
+      "rgText": "20.06.1952/8140"
+    },
+    {
+      "title": "Bilgi Edinme Hakkı Kanunu",
+      "titleEn": "Law on the Right to Information",
+      "rgText": "24.10.2003/25269"
+    },
+    {
+      "title": "Bilirkişilik Kanunu",
+      "titleEn": "Expert Witness Law",
+      "rgText": "24.11.2016/29898"
+    },
+    {
+      "title": "Birleşmiş Milletler İnsan Hakları Evrensel Beyannamesi",
+      "titleEn": "Universal Declaration of Human Rights (United Nations)",
+      "rgText": "27.05.1949/7217"
+    },
+    {
+      "title": "İş Sağlığı ve Güvenliği Kanunu",
+      "titleEn": "Occupational Health and Safety Law",
+      "rgText": "30.06.2012/28726"
+    },
+    {
+      "title": "İş Kanunu",
+      "titleEn": "Labor Law",
+      "rgText": "10.06.2003/25134"
+    }
+  ],
+  "decrees": [
+    {
+      "title": "Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
+      "titleEn": "Presidential Decree on the Organization of the Presidency",
+      "rgText": "10.07.2018/30474"
+    },
+    {
+      "title": "Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesi",
+      "titleEn": "Presidential Decree on General Staff and Procedure",
+      "rgText": "10.07.2018/30474"
+    },
+    {
+      "title": "Üst Kademe Kamu Yöneticileri ile Kamu Kurum ve Kuruluşlarında Atama Usûllerine Dair Cumhurbaşkanlığı Kararnamesi",
+      "titleEn": "Presidential Decree on Senior Public Executives and Appointment Procedures in Public Institutions and Organizations",
+      "rgText": "10.07.2018/30474"
+    },
+    {
+      "title": "Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
+      "titleEn": "Presidential Decree on the Organization of Ministries and Affiliated, Related and Associated Institutions and Other Institutions and Organizations",
+      "rgText": "15.07.2018/30479"
+    },
+    {
+      "title": "375 Sayılı KHK (Memuriyet Taban Aylığı ve Kıdem Aylığı vb.)",
+      "titleEn": "Decree Law No. 375 (Civil Service Base Salary and Seniority Salary, etc.)",
+      "rgText": "30.06.1989/20211"
+    }
+  ],
+  "regulations": [],
+  "bylaws": [
+    {
+      "title": "Alt İşverenlik Yönetmeliği",
+      "rgText": "Değ. 25.08.2017/30165 RG 27.09.2008/27010"
+    },
+    {
+      "title": "Analık İzni veya Ücretsiz İzin Sonrası Yapılacak Kısmi Süreli Çalışmalar Hakkında Yönetmelik",
+      "titleEn": "Regulation on Part-Time Work After Maternity Leave or Unpaid Leave",
+      "rgText": "RG 08.11.2016/29882"
+    },
+    {
+      "title": "Asansör İşletme ve Bakım Yönetmeliği",
+      "titleEn": "Regulation on Elevator Operation and Maintenance",
+      "rgText": "Değ. 11.07.2021/31538 RG 06.04.2019/30737"
+    },
+    {
+      "title": "Asansör Periyodik Kontrol Yönetmeliği",
+      "titleEn": "Regulation on Periodic Inspection of Elevators",
+      "rgText": "Değ. 05.08.2025/32977 RG 04.05.2018/30411"
+    },
+    {
+      "title": "Asansör Yönetmeliği (2014/33/AB)",
+      "titleEn": "Elevator Regulation (2014/33/EU)",
+      "rgText": "RG 29.06.2016/29757"
+    },
+    {
+      "title": "Asbestle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelik",
+      "titleEn": "Regulation on Health and Safety Measures in Work with Asbestos",
+      "rgText": "Değ. 16.01.2014/28884 RG 25.01.2013/28539"
+    },
+    {
+      "title": "Asgari Ücret Yönetmeliği",
+      "titleEn": "Minimum Wage Regulation",
+      "rgText": "Değ. 19.04.2014/28977 RG 01.08.2004/25540",
+      "mbsUrl": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5454&MevzuatTertip=5",
+      "kaysisUrl": "https://kms.kaysis.gov.tr/Home/Kurum/24304011"
+    },
+    {
+      "title": "Binaların Yangından Korunması Hakkında Yönetmelik",
+      "titleEn": "Regulation on Fire Protection of Buildings",
+      "rgText": "Değ. 30.06.2025/10026 RG 19.12.2007/26735"
+    },
+    {
+      "title": "Büyük Endüstriyel Kazaların Önlenmesi ve Etkilerinin Azaltılması Hakkında Yönetmelik",
+      "titleEn": "Regulation on the Prevention of Major Industrial Accidents and Mitigation of Their Effects",
+      "rgText": "RG 02.03.2019/30702"
+    }
+  ],
+  "communiques": [
+    {
+      "title": "Ahşap ve Ön Yapımlı Çelik ile Alüminyum Alaşımlı Bileşenlerden Oluşan Dış Cephe İş İskelelerine Dair Tebliğ",
+      "titleEn": "Communiqué on Exterior Facade Work Scaffolds Composed of Wooden and Prefabricated Steel and Aluminum Alloy Components",
+      "rgText": "RG 19.09.2014/29124"
+    },
+    {
+      "title": "Asbest Sökümü ile İlgili Eğitim Programlarına İlişkin Tebliğ",
+      "titleEn": "Communiqué on Training Programs Related to Asbestos Removal",
+      "rgText": "Değ.24.09.2020/31254 RG 29.06.2013/28692"
+    },
+    {
+      "title": "Büyük Endüstriyel Kazalarda Uygulanacak Dâhili Acil Durum Planları Hakkında Tebliğ",
+      "titleEn": "Communiqué on Internal Emergency Plans to be Implemented in Major Industrial Accidents",
+      "rgText": "RG 15.08.2020/31214"
+    },
+    {
+      "title": "Büyük Endüstriyel Kazalarla İlgili Hazırlanacak Büyük Kaza Senaryo Dokümanı Tebliği",
+      "titleEn": "Communiqué on the Major Accident Scenario Document to be Prepared Regarding Major Industrial Accidents",
+      "rgText": "RG 30.06.2020/31171"
+    },
+    {
+      "title": "Büyük Endüstriyel Kazalarla İlgili Hazırlanacak Büyük Kaza Önleme Politika Belgesi Tebliği",
+      "titleEn": "Communiqué on the Major Accident Prevention Policy Document to be Prepared Regarding Major Industrial Accidents",
+      "rgText": "RG 19.04.2019/30750"
+    },
+    {
+      "title": "Büyük Endüstriyel Kazalarla İlgili Hazırlanacak Güvenlik Raporu Tebliği",
+      "titleEn": "Communiqué on the Safety Report to be Prepared Regarding Major Industrial Accidents",
+      "rgText": "RG 19.04.2019/30750"
+    },
+    {
+      "title": "Ev Hizmetlerinde 5510 Sayılı Kanunun Ek 9 uncu Maddesi Kapsamında Sigortalı Çalıştırılması Hakkında Tebliğ",
+      "titleEn": "Communiqué on Employing Insured Workers in Domestic Services under Article 9 (Additional) of Law No. 5510",
+      "rgText": "Değ.29.12.2016/29933 RG 01.04.2015/29313",
+      "mbsUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20641&MevzuatTur=9&MevzuatTertip=5",
+      "kaysisUrl": "https://kms.kaysis.gov.tr/Home/Kurum/24304011"
+    },
+    {
+      "title": "İş Ekipmanlarının Periyodik Kontrollerini Yapmaya Yetkili Kişilerin Kayıt ve Eğitimlerine İlişkin Tebliğ",
+      "titleEn": "Communiqué on Registration and Training of Persons Authorized to Perform Periodical Inspections of Work Equipment",
+      "rgText": "Değ.24.09.2020/31254 RG 01.10.2017/30197",
+      "mbsUrl": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23931&MevzuatTertip=5",
+      "kaysisUrl": "https://kms.kaysis.gov.tr/Home/Kurum/24304011"
+    },
+    {
+      "title": "İş Sağlığı ve Güvenliği Hizmetlerinin Desteklenmesi Hakkında Tebliğ",
+      "titleEn": "Communiqué on Supporting Occupational Health and Safety Services",
+      "rgText": "RG 03.05.2014/28989",
+      "mbsUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16924&MevzuatTur=7&MevzuatTertip=5",
+      "kaysisUrl": "https://kms.kaysis.gov.tr/Home/Kurum/24304011"
+    },
+    {
+      "title": "İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliği",
+      "titleEn": "Communiqué on Workplace Hazard Classes Relating to Occupational Health and Safety",
+      "rgText": "Değ.13.03.2025/32840 RG 26.12.2012/28509",
+      "mbsUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16909&MevzuatTur=9&MevzuatTertip=5",
+      "kaysisUrl": "https://kms.kaysis.gov.tr/Home/Kurum/24304011"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+# Özel ve Hassas Dosyalar (Asla GitHub'a yüklenmemeli)
+*Şifreler*
+*Sifreler*
+*Sözleşme*
+*Sozlesme*
+*.docx
+*.txt
+
+# Yerel Yönetim Paneli (Sadece kendi bilgisayarınızda kalmalı)
+admin.html
+admin/
+assets/mammoth.browser.min.js
+
+# Kaynak / Derleme Klasörü ve Ham Görseller (~45 MB)
+_src/
+
+# Yerel Deploy Kopyaları ve Arşivler
+deploy/
+*.zip
+
+# İşletim Sistemi ve Editör Dosyaları
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

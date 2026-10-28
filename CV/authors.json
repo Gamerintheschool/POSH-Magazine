@@ -1,0 +1,106 @@
+{
+  "editors": [
+    {
+      "id": 1,
+      "nameTR": "Hakan Erdoğan",
+      "nameEN": "Hakan Erdoğan",
+      "roleTR": "Baş Editör",
+      "roleEN": "Editor-in-Chief",
+      "bioTR": "",
+      "bioEN": "",
+      "photo": "",
+      "email": "",
+      "linkedin": "",
+      "cvDocxTR": "CV/texts/Türkçe/HAKAN ERDOĞAN CV 2025.docx",
+      "cvDocxEN": "CV/texts/İngilizce/HAKAN ERDOĞAN CV 2025.docx"
+    }
+  ],
+  "associates": [
+    {
+      "id": 3,
+      "nameTR": "Gökçe Sönmez",
+      "nameEN": "Gökçe Sönmez",
+      "roleTR": "Yardımcı Editör",
+      "roleEN": "Associate Editor",
+      "bioTR": "Lisans eğitimini İTÜ Makina Mühendisliği bölümünde tamamlamıştır. İşletme yönetimi üzerine yaptığı ilk yüksek lisans eğitiminde Erasmus Değişim Programı ile Macaristan'ın Corvinus Üniversitesi'nde okumuştur. İkinci yüksek lisansını afet yönetimi üzerine yapmıştır. Doktora eğitimini Yıldız Teknik Üniversitesi'nde güvenlik kültürü üzerine yazdığı tez işe işletme yönetimi programında tamamlamıştır.",
+      "bioEN": "He completed his undergraduate education in Mechanical Engineering at Istanbul Technical University (ITU). For his first master's degree in business administration, he studied at Corvinus University in Hungary through the Erasmus Exchange Program. He completed his second master's degree in disaster management. He completed his doctorate in business administration at Yıldız Technical University with a thesis on safety culture.",
+      "photo": "CV/photos/Gökçe Sönmez.jpg",
+      "email": "",
+      "linkedin": "",
+      "cvDocxTR": "CV/texts/Türkçe/Gökçe Sönmez.docx",
+      "cvDocxEN": "CV/texts/İngilizce/Gökçe Sönmez.docx"
+    }
+  ],
+  "advisory": [
+    {
+      "id": 7,
+      "nameTR": "Selcen Kanalıcı Porter",
+      "nameEN": "Selcen Kanalıcı Porter",
+      "roleTR": "Danışma Kurulu Üyesi",
+      "roleEN": "Advisory Board Member",
+      "bioTR": "",
+      "bioEN": "",
+      "photo": "CV/photos/Selcan Kanalcı Porter.jpg",
+      "email": "selcenkanalici@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/selcen-kanal%C4%B1c%C4%B1-porter-1a77a3172/",
+      "cvDocxTR": "CV/texts/Türkçe/SELCEN KANALICI PORTER.docx",
+      "cvDocxEN": "CV/texts/İngilizce/SELCEN KANALICI PORTER.docx"
+    },
+    {
+      "id": 8,
+      "nameTR": "Alparslan Koçer",
+      "nameEN": "Alparslan Koçer",
+      "roleTR": "Danışma Kurulu Üyesi",
+      "roleEN": "Advisory Board Member",
+      "bioTR": "",
+      "bioEN": "",
+      "photo": "CV/photos/Alparslan Koçer.jpg",
+      "email": "",
+      "linkedin": "",
+      "cvDocxTR": "CV/texts/Türkçe/ÖZ GEÇMİŞ Alparslan Koçer.docx",
+      "cvDocxEN": "CV/texts/İngilizce/ÖZ GEÇMİŞ Alparslan Koçer.docx"
+    },
+    {
+      "id": 9,
+      "nameTR": "Gülşah Öztürk",
+      "nameEN": "Gülşah Öztürk",
+      "roleTR": "Danışma Kurulu Üyesi",
+      "roleEN": "Advisory Board Member",
+      "bioTR": "",
+      "bioEN": "",
+      "photo": "CV/photos/Gülşah Öztürk.jpg",
+      "email": "",
+      "linkedin": "",
+      "cvDocxTR": "CV/texts/Türkçe/Gülşah Öztürk.docx",
+      "cvDocxEN": "CV/texts/İngilizce/Gülşah Öztürk.docx"
+    },
+    {
+      "id": 10,
+      "nameTR": "Gökhan Timur",
+      "nameEN": "Gökhan Timur",
+      "roleTR": "Danışma Kurulu Üyesi",
+      "roleEN": "Advisory Board Member",
+      "bioTR": "",
+      "bioEN": "",
+      "photo": "CV/photos/Gökhan Timur.jpg",
+      "email": "gokhantimurisg@gmail.com",
+      "linkedin": "linkedin.com/in/gökhan-timur-35107955",
+      "cvDocxTR": "CV/texts/Türkçe/Posh magazine cv Gökhan Timur.docx",
+      "cvDocxEN": "CV/texts/İngilizce/Posh magazine cv Gökhan Timur.docx"
+    },
+    {
+      "id": 11,
+      "nameTR": "Mehmet Aksan",
+      "nameEN": "Mehmet Aksan",
+      "roleTR": "Danışma Kurulu Üyesi",
+      "roleEN": "Advisory Board Member",
+      "bioTR": "",
+      "bioEN": "",
+      "photo": "CV/photos/Mehmet Aksan.jpeg",
+      "email": "",
+      "linkedin": "",
+      "cvDocxTR": "CV/texts/Türkçe/Mehmet Aksan.docx",
+      "cvDocxEN": "CV/texts/İngilizce/Mehmet Aksan.docx"
+    }
+  ]
+}

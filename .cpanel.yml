@@ -1,0 +1,12 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=$HOME/public_html/
+    - /bin/mkdir -p "$DEPLOYPATH/assets" "$DEPLOYPATH/data" "$DEPLOYPATH/CV"
+    - /bin/cp -f index.html issues.html article.html editorial.html legislation.html calendar.html links.html interviews.html about.html contact.html style.css app.js "$DEPLOYPATH"
+    - /bin/cp -Rf data/* "$DEPLOYPATH/data/"
+    - /bin/cp -f assets/posh-logo.png "$DEPLOYPATH/assets/"
+    - /bin/cp -Rf assets/covers "$DEPLOYPATH/assets/"
+    - /bin/cp -f CV/authors.json "$DEPLOYPATH/CV/"
+    - /bin/cp -Rf CV/photos "$DEPLOYPATH/CV/"
+
