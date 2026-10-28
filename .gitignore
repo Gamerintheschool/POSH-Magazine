@@ -14,6 +14,10 @@ assets/mammoth.browser.min.js
 # Kaynak / Derleme Klasörü ve Ham Görseller (~45 MB)
 _src/
 
+# Büyük Dergi PDF Arşivi (~335 MB - cPanel Dosya Yöneticisi ile tek seferde yüklenir)
+assets/pdfs/
+assets/2024-issue4.jpg
+
 # Yerel Deploy Kopyaları ve Arşivler
 deploy/
 *.zip
@@ -23,4 +27,3 @@ deploy/
 Thumbs.db
 .vscode/
 .idea/
-
